@@ -1,0 +1,14 @@
+D:\dio\desafios\dio-calculadora-testes-desafio\CalculadoraConsole\bin\Debug\net8.0\CalculadoraConsole.exe
+D:\dio\desafios\dio-calculadora-testes-desafio\CalculadoraConsole\bin\Debug\net8.0\CalculadoraConsole.deps.json
+D:\dio\desafios\dio-calculadora-testes-desafio\CalculadoraConsole\bin\Debug\net8.0\CalculadoraConsole.runtimeconfig.json
+D:\dio\desafios\dio-calculadora-testes-desafio\CalculadoraConsole\bin\Debug\net8.0\CalculadoraConsole.dll
+D:\dio\desafios\dio-calculadora-testes-desafio\CalculadoraConsole\bin\Debug\net8.0\CalculadoraConsole.pdb
+D:\dio\desafios\dio-calculadora-testes-desafio\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\dio\desafios\dio-calculadora-testes-desafio\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.AssemblyInfoInputs.cache
+D:\dio\desafios\dio-calculadora-testes-desafio\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.AssemblyInfo.cs
+D:\dio\desafios\dio-calculadora-testes-desafio\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.csproj.CoreCompileInputs.cache
+D:\dio\desafios\dio-calculadora-testes-desafio\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.dll
+D:\dio\desafios\dio-calculadora-testes-desafio\CalculadoraConsole\obj\Debug\net8.0\refint\CalculadoraConsole.dll
+D:\dio\desafios\dio-calculadora-testes-desafio\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.pdb
+D:\dio\desafios\dio-calculadora-testes-desafio\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.genruntimeconfig.cache
+D:\dio\desafios\dio-calculadora-testes-desafio\CalculadoraConsole\obj\Debug\net8.0\ref\CalculadoraConsole.dll
